@@ -1,6 +1,8 @@
 # autokey-gnome-macos-phrases
 My config for macos phrases in linux
 
+This is a fork of [this repo](https://github.com/petrstepanov/gnome-macos-remap)
+
 Install
 ```
 sudo apt install autokey-gtk
