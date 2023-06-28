@@ -12,3 +12,6 @@ cd autokey-gnome-macos-phrases
 sudo ./install.sh
 autokey-gtk
 ```
+Then go to Gnome Tweaks and check this:
+
+![image](https://github.com/soype/autokey-gnome-macos-phrases/assets/45084173/7ec08988-1ac9-4837-b0d7-823dace0585e)
