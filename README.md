@@ -9,6 +9,7 @@ sudo apt install autokey-gtk
 cd ~/Descargas
 git clone https://github.com/soype/autokey-gnome-macos-phrases
 cd autokey-gnome-macos-phrases
+chmod +x ./install
 sudo ./install.sh
 autokey-gtk
 ```
