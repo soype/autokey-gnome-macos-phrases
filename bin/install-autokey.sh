@@ -22,6 +22,7 @@ select opt in "Nautilus - Delete resource" "Text editing - Delete line"; do
 		"Nautilus - Delete resource")
 			rm ~/.config/autokey/data/gnome-macos-phrases/delete-line.py
 			rm ~/.config/autokey/data/gnome-macos-phrases/.delete-line.json
+			tar xf ~/.config/autokey/data/gnome-macos-phrases/command-link.tar.xz
 			break
 			;;
 		"Text editing - Delete line")
